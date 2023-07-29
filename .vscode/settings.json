@@ -1,0 +1,7 @@
+{
+    "Lua.runtime.version": "Lua 5.1",
+    "craftos-pc.executablePath.windows": "C:\\Users\\quang\\AppData\\Local\\CraftOS-PC\\CraftOS-PC.exe",
+    "Lua.diagnostics.globals": [
+        "modem"
+    ]
+}
