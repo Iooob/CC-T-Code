@@ -1,0 +1,5 @@
+print(1)
+fs.delete("autoUpdater.lua")
+shell.run("wget https://pastebin.com/raw/kMaGLKFr autoUpdater.lua")
+os.sleep(1)
+shell.run("autoUpdater")
